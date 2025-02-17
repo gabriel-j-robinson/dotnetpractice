@@ -35,3 +35,6 @@ C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\obj\Debug\net8.0\PizzaStor
 C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\obj\Debug\net8.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.Up2Date
 C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\source\repos\dotnetpractice\PizzaStore\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
